@@ -1,22 +1,22 @@
 [
     {
-      "name": "Анна",
+      "name": "Anna",
       "num": 4
     },
     {
-      "name": "Елена",
+      "name": "Elena",
       "num": 5
     },
     {
-      "name": "Марина",
+      "name": "Marina",
       "num": 6
     },
     {
-      "name": "Владимир",
+      "name": "Vladimir",
       "num": "?"
     },
     {
-      "name": "Константин",
+      "name": "Vlad",
       "num": "?"
     }
 ]
